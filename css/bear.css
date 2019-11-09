@@ -11,5 +11,5 @@ html {
 /* Write your solution here */
 
 @media screen and (max-width: 1196px) {
- #bear img {margin-left: 800px;}
+ #bear img {left: 800px;}
 }
